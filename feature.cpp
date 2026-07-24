@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+   cout<<"I will made following changes\n";
+   cout << "\t - Collision -\n"
+           "\t - Multiplayer -\n"
+           "\t - Health pipeline -\n"
+           "\t - Strikes & Attacks -\n";
+           return 0;
+}
