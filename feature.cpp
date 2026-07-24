@@ -6,5 +6,7 @@ int main(){
            "\t - Multiplayer -\n"
            "\t - Health pipeline -\n"
            "\t - Strikes & Attacks -\n";
+           "\t - FPS Movement -\n";
+           "\t - Combo Attacks -\n";
            return 0;
 }
