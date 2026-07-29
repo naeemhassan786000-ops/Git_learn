@@ -8,7 +8,11 @@ int main(){
            "\t - Strikes & Attacks -\n";
            "\t - FPS Movement -\n";
            "\t - Combo Attacks -\n";
+<<<<<<< HEAD
 
-           int boost=40;
+           int boost=30;
+=======
+           int boost=30;
+>>>>>>> temp
            return 0;
 }
