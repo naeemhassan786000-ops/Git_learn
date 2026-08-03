@@ -6,4 +6,5 @@ int main(){
     cout<<"I m verifying a question\n";
     cout<<"I am commiting from Github\n";
     cout<<"\tEditing and Testing";
+    cout<<"GitHub is amazing\n";
 }
