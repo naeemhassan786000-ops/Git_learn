@@ -9,5 +9,11 @@ int main(){
            "\t - FPS Movement -\n";
            "\t - Combo Attacks -\n";
            int boost=30;
+           for(int i=0;i<5;i++){
+                for(int j=i;j<5;j++){
+                        cout<<" *";
+                }
+                cout<<"\n";
+           }
            return 0;
 }
