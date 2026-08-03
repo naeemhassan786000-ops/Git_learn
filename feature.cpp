@@ -9,11 +9,19 @@ int main(){
            "\t - FPS Movement -\n";
            "\t - Combo Attacks -\n";
            int boost=30;
-           for(int i=0;i<5;i++){
-                for(int j=i;j<5;j++){
-                        cout<<" *";
-                }
-                cout<<"\n";
+           int num;
+           cout << "Enter * count lines to make: ";
+           cin >> num;
+           for (int i = 0; i < 5; i++)
+           {
+                   if (num > 0)
+                   {
+                           for (int j = i; j < 5; j++)
+                           {
+                                   cout << "* ";
+                           }
+                           cout << "\n";
+                   }
            }
            return 0;
 }
