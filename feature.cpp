@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-        cout << "I will made following changes\n";
+        cout << "I will made following changes";
         cout << "\t - Collision -\n"
                 "\t - Multiplayer -\n"
                 "\t - Health pipeline -\n"
