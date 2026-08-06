@@ -7,17 +7,5 @@ int main(){
     cout<<"I am commiting from Github\n";
     cout<<"\tEditing and Testing";
     cout<<"GitHub is amazing\n";
-    bool move=false;
-    int i=0;
-    while(i<5){
-        if(move&&i==3){
-            cout<<"Go\n";
-        }
-        else
-        {
-            i++;
-            continue;
-        }
-    }
-    cout<<" i : "<<i<<endl;
+
 }
