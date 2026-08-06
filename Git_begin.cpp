@@ -5,14 +5,6 @@ int main(){
     cout<<"Its My Second Version"<<endl;
     cout<<"I m verifying a question\n";
     cout<<"I am commiting from Github\n";
-    cout << "\tEditing and Testing";
-    cout << "GitHub is amazing\n";
-    for (int i = 0; i < 5; i++)
-    {
-        for (int j = i; j < 5; j++)
-        {
-            cout << "* ";
-        }
-        cout<<"\n";
-    }
+    cout<<"\tEditing and Testing";
+    cout<<"GitHub is amazing\n";
 }
