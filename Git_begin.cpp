@@ -19,4 +19,5 @@ int main(){
             continue;
         }
     }
+    cout<<" i : "<<i<<endl;
 }
